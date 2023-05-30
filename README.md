@@ -63,6 +63,6 @@ However, decision trees also have limitations, such as:
 The decision tree algorithm is a powerful tool for prediction tasks. It provides a straightforward and interpretable approach to make predictions based on simple decision rules. Understanding the theoretical concepts and considerations of decision trees is crucial for effectively applying this algorithm in practice.
 
 ## Contact
-For any questions, feedback, or collaborations, feel free to reach out to me. Connect with me on LinkedIn - jash thakar or email at - jash.thakar99@gmail.com 
+For any questions, feedback, or collaborations, feel free to reach out to me. Connect with me on LinkedIn - dhruvee vadhvana or email at - dhruvee2003@gmail.com 
 
 
